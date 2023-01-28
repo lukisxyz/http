@@ -1,2 +1,8 @@
-# http
-System Programming Challenger: Simple HTTP Server With Bare Socket
+# System Programming Challenger: Simple HTTP Server Using Bare Socket
+
+You're asked to create a simple http server that serve a POST request and give a somekind of message what ever it is. On this challenge you're forbidden from using a high level framework or library about HTTP, just listen from your socket and parse manually.
+
+I Will create in 3 different language:
+- Typescript using Deno
+- Go Language
+- Rust language
