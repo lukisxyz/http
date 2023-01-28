@@ -2,7 +2,7 @@ import { BufReader } from "https://deno.land/std@0.174.0/io/buffer.ts";
 
 function main() {
   const listener = Deno.listen({
-    port: 8081,
+    port: 8080,
     hostname: '0.0.0.0',
     transport: 'tcp',
   })
