@@ -4,6 +4,6 @@ You're asked to create a simple http server that serve a POST request and give a
 
 I will create in 3 different language:
 - Typescript using Deno (done)
-- Go Language (on going)
-- Rust language
+- Go Language (done)
+- Rust language (not yet, learn language first)
 
