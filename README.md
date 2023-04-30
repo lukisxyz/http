@@ -1,4 +1,4 @@
-# System Programming Challenger: Simple HTTP Server Using Bare Socket
+# Simple HTTP Server
 
 You're asked to create a simple http server that serve a POST request and give a somekind of message what ever it is. On this challenge you're forbidden from using a high level framework or library about HTTP, just listen from your socket and parse manually.
 
